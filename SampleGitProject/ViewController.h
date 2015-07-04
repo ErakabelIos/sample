@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 @property NSString *abc;
 @property UIView *c;
+@property UIWebView *d;
 
 @end
 

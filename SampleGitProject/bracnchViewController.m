@@ -19,30 +19,13 @@
     // Do any additional setup after loading the view.
 }
 
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
 
--(void)function1{
-    
-}
 
--(void) fun{
-    
-}
-
--(void) jj{
-    
-}
-
--(void)gg{
-    
-}
-
--(void)gg2{
-    
-}
 /*
 #pragma mark - Navigation
 

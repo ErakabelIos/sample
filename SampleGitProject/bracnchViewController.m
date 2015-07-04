@@ -36,7 +36,13 @@
     
 }
 
+-(void)gg{
+    
+}
 
+-(void)gg2{
+    
+}
 /*
 #pragma mark - Navigation
 

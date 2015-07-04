@@ -10,7 +10,7 @@
 
 @interface ViewController : UIViewController
 @property NSString *abc;
-
+@property NSString *g;
 
 @end
 

@@ -24,6 +24,19 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)function1{
+    
+}
+
+-(void) fun{
+    
+}
+
+-(void) jj{
+    
+}
+
+
 /*
 #pragma mark - Navigation
 

@@ -14,6 +14,7 @@
 		29B871751B47D69700F2B250 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29B871741B47D69700F2B250 /* Images.xcassets */; };
 		29B871781B47D69700F2B250 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 29B871761B47D69700F2B250 /* LaunchScreen.xib */; };
 		29B871841B47D69700F2B250 /* SampleGitProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B871831B47D69700F2B250 /* SampleGitProjectTests.m */; };
+		29B8718F1B47DA3800F2B250 /* bracnchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B8718E1B47DA3800F2B250 /* bracnchViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		29B8717D1B47D69700F2B250 /* SampleGitProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleGitProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		29B871821B47D69700F2B250 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		29B871831B47D69700F2B250 /* SampleGitProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleGitProjectTests.m; sourceTree = "<group>"; };
+		29B8718D1B47DA3800F2B250 /* bracnchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bracnchViewController.h; sourceTree = "<group>"; };
+		29B8718E1B47DA3800F2B250 /* bracnchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = bracnchViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				29B8716E1B47D69700F2B250 /* ViewController.h */,
 				29B8716F1B47D69700F2B250 /* ViewController.m */,
 				29B871711B47D69700F2B250 /* Main.storyboard */,
+				29B8718D1B47DA3800F2B250 /* bracnchViewController.h */,
+				29B8718E1B47DA3800F2B250 /* bracnchViewController.m */,
 				29B871741B47D69700F2B250 /* Images.xcassets */,
 				29B871761B47D69700F2B250 /* LaunchScreen.xib */,
 				29B871671B47D69700F2B250 /* Supporting Files */,
@@ -221,6 +226,7 @@
 			files = (
 				29B871701B47D69700F2B250 /* ViewController.m in Sources */,
 				29B8716D1B47D69700F2B250 /* AppDelegate.m in Sources */,
+				29B8718F1B47DA3800F2B250 /* bracnchViewController.m in Sources */,
 				29B8716A1B47D69700F2B250 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
